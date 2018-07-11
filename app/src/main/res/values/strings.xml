@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinkedInDemo</string>
+    <string name="ic_home">Home</string>
+    <string name="ic_network">Network</string>
+    <string name="ic_messaging">Messaging</string>
+    <string name="ic_alert">Notification</string>
+    <string name="ic_jobs">Jobs</string>
+</resources>
