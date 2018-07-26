@@ -5,4 +5,14 @@
     <string name="ic_messaging">Messaging</string>
     <string name="ic_alert">Notification</string>
     <string name="ic_jobs">Jobs</string>
+
+
+    <string-array name="suggestions">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Moto</item>
+        <item>Samsung</item>
+    </string-array>
+
+
 </resources>
